@@ -1,0 +1,22 @@
+{
+    "root": "D:/Notebooks/logo-GAN",
+    "program": ".\\mnist-gan-test.py",
+    "git": {
+        "remote": "https://github.com/blueybloke/logo-gan.git",
+        "commit": "12eed3ea59b75e8bca2054e20618e56499a82641"
+    },
+    "email": "max@maxphillipsdev.com",
+    "startedAt": "2020-05-26T12:36:24.970100",
+    "host": "DESKTOP-9FR20DP",
+    "username": "maxwe",
+    "executable": "E:\\anaconda3\\envs\\logo-GAN\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.6.10",
+    "cpu_count": 8,
+    "args": [],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "project": "mnist-gan-test",
+    "heartbeatAt": "2020-05-26T12:59:24.540106"
+}

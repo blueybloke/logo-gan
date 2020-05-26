@@ -1,0 +1,26 @@
+{
+    "root": "D:/Notebooks/logo-GAN",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/blueybloke/logo-gan.git",
+        "commit": "12eed3ea59b75e8bca2054e20618e56499a82641"
+    },
+    "email": "max@maxphillipsdev.com",
+    "startedAt": "2020-05-26T12:06:08.390424",
+    "host": "DESKTOP-9FR20DP",
+    "username": "maxwe",
+    "executable": "E:\\anaconda3\\envs\\logo-GAN\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.6.10",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\maxwe\\AppData\\Roaming\\jupyter\\runtime\\kernel-8fab396f-f7a2-4ec1-b89b-a2e6132d439d.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "fluent-vortex-1",
+    "project": "mnist-gan-test",
+    "heartbeatAt": "2020-05-26T12:06:14.997330"
+}

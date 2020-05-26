@@ -1,0 +1,26 @@
+{
+    "root": "D:/Notebooks/logo-GAN",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/blueybloke/logo-gan.git",
+        "commit": "12eed3ea59b75e8bca2054e20618e56499a82641"
+    },
+    "email": "max@maxphillipsdev.com",
+    "startedAt": "2020-05-26T12:46:47.202260",
+    "host": "DESKTOP-9FR20DP",
+    "username": "maxwe",
+    "executable": "E:\\anaconda3\\envs\\logo-GAN\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.6.10",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\maxwe\\AppData\\Roaming\\jupyter\\runtime\\kernel-48315986-8ac8-4516-a4bc-f0db69ca2ecb.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "solar-frog-10",
+    "project": "mnist-gan-test",
+    "heartbeatAt": "2020-05-26T12:59:23.027892"
+}
