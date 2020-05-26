@@ -1,2 +1,5 @@
 .vscode/
 .training-checkpoints-mnist/
+.logos/
+.resized_logos/
+./wandb
